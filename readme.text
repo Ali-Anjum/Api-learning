@@ -1,0 +1,8 @@
+In this project we tried learning and going deep about apis and their working
+We sent data to a fetch api in JSON
+Recieved data in fetch  api with await 
+Displayed the data onscreen
+Languages used:
+1 HTML
+2 CSS
+3 Vanilla Javascript
